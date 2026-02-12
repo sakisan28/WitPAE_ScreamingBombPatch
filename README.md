@@ -1,4 +1,4 @@
-## WitPAE_ScreemingBombPatch
+## WitPAE_ScreamingBombPatch
 
 For Gary Grigsby's War in the Pacific Admiral's Edition,
 Change screaming bomb sound to ordinary bomb sound.
